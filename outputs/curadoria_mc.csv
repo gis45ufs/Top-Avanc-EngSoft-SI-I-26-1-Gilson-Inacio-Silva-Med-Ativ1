@@ -1,0 +1,1112 @@
+official_id;student;team;dataset_source_index;usmle_source_index;question;option_A;option_B;option_C;option_D;option_E;option_F;option_G;option_H;option_I;correct_answer_dataset;correct_answer_usmle;difficulty;specialty;reference_used;explanation;curator_notes
+136;Gilson Inácio da Silva;Equipe 2 - Medicina;136;135;"A 58-year-old man comes to the clinic for a follow-up examination 3
+months after beginning warfarin therapy for
+deep venous thrombosis. He noted blood in his urine 1 week ago but has
+not seen any since that time. He has not had
+pain, fever, or increased urinary frequency. He has not sustained any recent
+trauma. His prothrombin time and INR
+have been within the therapeutic ranges during his previous
+measurements. He has hypertension and benign
+prostatic hyperplasia. Medications are warfarin and hydrochlorothiazide.
+He smoked one pack of cigarettes daily for
+40 years but quit when diagnosed with deep venous thrombosis.
+Temperature is 35.9°C (96.6°F), pulse is 88/min,
+respirations are 18/min, and blood pressure is 135/87 mm Hg. The prostate
+is moderately enlarged; no nodules are
+noted.
+Laboratory studies showed that the Prothrombin time is 19 sec (INR=2.5),
+serum Urea nitrogen is 18 mg/dL, serum Creatinine is 1 mg/dL, and
+Prostate-specific antigen is 3.8 ng/mL (N<4).
+The laboratory result on urine showed the following: blood is 3+, protein is
+1+, RBC is too numerous to count, WBC is 2/hpf, no casts, and negative for
+Nitrites and Leukocyte esterase.
+In addition to a CT scan of the abdomen, which of the following is the most
+appropriate next step in management?";Adjustment of the warfarin dosage to maintain an INR between 1.5 and;Ciprofloxacin therapy;Cystoscopy;Discontinuation of hydrochlorothiazide therapy;Finasteride therapy;;;;;C;C;Medium;Urology;AUA/SUFU guideline — hematuria evaluation;"Cystoscopy is the most appropriate next step because guidelines and evidence
+indicate that all patients with gross hematuria and risk factors—including those
+on therapeutic anticoagulation—require prompt urologic evaluation to exclude
+malignancy. The patient has gross hematuria, is male, age >35, with a heavy
+smoking history; anticoagulation at a therapeutic INR is not considered a
+sufficient explanation, and malignancy must be ruled out with cystoscopy plus
+upper tract imaging.[1][2][3][4] The American Urological Association (AUA/SUFU)
+also recommends cystoscopy as part of risk-based evaluation for hematuria; the
+American College of Physicians emphasizes that antithrombotic therapy should
+not preclude evaluation.[4][5] Observational data show antithrombotic therapy
+can unmask otherwise silent bladder cancers, reinforcing the need for
+cystoscopy despite therapeutic INR.[3] Empiric antibiotics are not indicated
+without infection, finasteride is a consideration only after exclusion of
+malignancy, hydrochlorothiazide is not causally implicated, and down-titration
+of warfarin is inappropriate with therapeutic INR.[1][2][6][7]
+Therefore, in addition to CT imaging of the upper tracts, the next step is 
+Cystoscopy.
+To contextualize the diagnostic approach, comparative modeling of guideline
+strategies shows that cystoscopy is a core test across risk-based pathways for
+hematuria; CT urography is generally reserved for higher-risk presentations
+such as gross hematuria or smokers, aligning with this patient’s profile.[8]
+Caption: Model Input Variables<|END VISUAL|>";"Gross hematuria in a patient on therapeutic anticoagulation with important urologic risk factors; therapeutic anticoagulation does not exclude evaluation for malignancy, and the appropriate next step is cystoscopy."
+137;Gilson Inácio da Silva;Equipe 2 - Medicina;137;136;"A 32-year-old woman is brought to the emergency department
+immediately after being involved in a motor vehicle
+collision. She was the unrestrained driver. On arrival, she says she has
+severe pain in her right groin. On
+examination, any movement of the right hip produces pain. An x-ray of the
+pelvis shows a completely displaced
+fracture of the femoral neck. In addition to intravenous morphine, which of
+the following is the most appropriate
+management?";Bed rest;Closed reduction followed by traction;Hip spica hinge brace;Limited weight bearing with use of crutches;Operative reduction and internal fixation;;;;;E;E;Medium;Orthopedics / Trauma;Orthopedic trauma literature — displaced femoral neck fracture in young adults;"Operative fixation is indicated. In a young adult with a completely displaced
+femoral neck fracture from high-energy trauma, urgent anatomical reduction
+and stable internal fixation is the standard to preserve the femoral head and
+mitigate risks of osteonecrosis and nonunion; nonoperative options (bed rest,
+traction, bracing, limited weight bearing) are inadequate and associated with
+poor outcomes.[1][2][3] Contemporary evidence in this age group favors fixed-
+angle constructs over multiple cancellous screws alone for displaced patterns,
+with augmentation (e.g., sliding hip screw plus medial femoral neck buttress
+plate and antirotation screw) improving construct success; surgery should occur
+within 24–48 hours when feasible.[1][3][4][5][6]
+Correct answer: Operative reduction and internal fixation.
+Figure 4 from NEJM illustrates the treatment schema: internal fixation for
+femoral-neck fractures and arthroplasty options for displaced fractures in older
+adults; for young patients with displaced femoral-neck fractures, the goal is head
+preservation via reduction and internal fixation rather than arthroplasty.[1] This
+visual reinforces that conservative measures are not definitive care for this injury
+pattern.
+Figure 4. Selected Treatments for Hip Fracture.
+Used under license from The New England Journal of Medicine.
+Why not the other options:
+Bed rest, traction, hip spica, or limited weight bearing do not address
+vascular compromise or instability and carry high risks of nonunion and
+avascular necrosis in displaced femoral-neck fractures.[1][2][5][6]
+Closed reduction followed by traction is obsolete for definitive care;
+definitive internal fixation is required.[1][2][3]
+• 
+• 
+Key operative considerations:
+Urgent closed or open reduction to restore alignment and decompress
+intracapsular pressure; stable internal fixation with a fixed-angle construct,
+often augmented with a medial buttress plate and antirotation screw, has
+lower failure than screws alone in displaced fractures in younger adults.[4]
+[5]
+Early surgery within 24–48 hours optimizes outcomes.[1][3]";"Completely displaced femoral neck fracture in a young adult after high-energy trauma; the appropriate management is operative reduction and internal fixation to preserve the femoral head and reduce the risk of avascular necrosis and nonunion."
+138;Gilson Inácio da Silva;Equipe 2 - Medicina;138;137;"A 57-year-old man comes to the physician 1 week after he had a 45-minute
+episode of slurred speech and
+clumsiness of his right hand. The episode occurred during his daily walk;
+the symptoms resolved during the next 24
+hours. He has no history of similar symptoms. He has a 20-year history of
+hypertension and a 15-year history of
+hypercholesterolemia controlled with a low-cholesterol diet and daily
+exercise. He takes no medications. He has
+smoked one pack of cigarettes daily for 40 years and drinks one to two
+glasses of wine nightly with dinner. He is
+alert and fully oriented. He is 178 cm (5 ft 10 in) tall and weighs 86 kg (190
+lb); BMI is 27 kg/m². His temperature is
+37.0°C (98.6°F), pulse is 88/min, respirations are 10/min, and blood
+pressure is 170/90 mm Hg. Examination,
+including neurologic examination, shows no other abnormalities. Daily
+enteric-coated aspirin therapy is begun.
+Which of the following is the most appropriate next step to decrease this
+patient’s risk for subsequent cerebral
+infarction?";Alcohol cessation;Smoking cessation;Weight loss program;Antihypertensive therapy;Cholesterol-lowering therapy;;;;;D;D;Medium;Neurology / Internal Medicine;AHA/ASA guideline — secondary prevention after TIA/stroke;"Antihypertensive therapy.
+Rationale: After TIA, blood pressure lowering provides the largest proven
+reduction in recurrent stroke risk. The American College of Cardiology/
+American Heart Association recommend initiating or intensifying
+antihypertensive therapy a few days after TIA when BP is ?140/90 mm Hg, with
+preferred agents including a thiazide diuretic, ACE inhibitor, ARB, or a thiazide–
+ACE inhibitor combination; a target <130/80 mm Hg is reasonable for most
+patients.[1][2] Trials summarized by the American Stroke Association show BP
+lowering after stroke/TIA reduces recurrence by roughly 30–40% (e.g.,
+indapamide alone; perindopril ± indapamide) and support prioritizing these
+classes.[3] This patient’s BP (170/90 mm Hg) is markedly above target, making
+antihypertensive therapy the most immediate and impactful next step.
+Other measures:
+High-intensity statin therapy is recommended for presumed
+atherosclerotic TIA and reduces recurrent vascular events, but BP control
+has stronger direct evidence for recurrent stroke reduction and is the most
+urgent abnormality here.[2][3][4]
+Smoking cessation improves outcomes after stroke/TIA and should be
+counseled, but effect sizes in observational data are smaller and less
+immediate than BP lowering.[3][5]
+Alcohol reduction and weight optimization are advisable for risk factor
+control, but evidence for preventing recurrent stroke events is less direct.
+[3][4]
+Agent selection and dosing should be individualized; commonly used regimens
+include a thiazide (e.g., chlorthalidone 12.5–25 mg daily) and/or ACE inhibitor
+• 
+• 
+• 
+(e.g., perindopril 4–8 mg daily) or ARB, titrated to achieve <130/80 mm Hg as
+tolerated.[1][2][3]";"Clinical presentation is consistent with a transient ischemic attack; the key management issue is secondary prevention, and the most appropriate next step to reduce recurrent cerebral infarction risk is antihypertensive therapy because blood pressure is markedly elevated."
+139;Gilson Inácio da Silva;Equipe 2 - Medicina;139;138;"A 27-year-old primigravid woman at 21 weeks’ gestation comes to the
+emergency department because of a 2-day
+history of moderate headache, shortness of breath, nausea, vomiting,
+muscle aches, and malaise. She also has had
+cough occasionally productive of sputum. Pregnancy had been
+uncomplicated. She has no history of serious illness,
+and her only medication is a prenatal vitamin. She immigrated to the USA
+from India 6 months ago. Temperature is
+38.3°C (100.9°F), pulse is 100/min, respirations are 18/min, and blood
+pressure is 100/60 mm Hg. On examination,
+breath sounds are decreased at the right lung base. Fundal height is 22 cm.
+Fetal heart rate is 160/min. Chest x-ray
+shows right-sided interstitial infiltrates. Which of the following is the most
+likely infectious agent?";Haemophilus influenzae;Influenza A virus;Legionella pneumophila;Mycobacterium tuberculosis;Pseudomonas aeruginosa;;;;;B;B;Medium;Obstetrics / Infectious Diseases;Guidance on influenza in pregnancy;"Influenza A virus
+Key reasoning:
+Presentation is acute (2 days) with systemic symptoms (fever, myalgias,
+headache, malaise, nausea/vomiting) plus cough and tachycardia, which is
+typical for influenza-associated community-acquired pneumonia (CAP) in
+otherwise healthy young adults; chest radiograph often shows interstitial
+infiltrates.[1][2][3]
+Pregnancy increases risk for severe influenza and lower respiratory tract
+involvement due to physiologic and immunologic changes; influenza A/B is
+a leading viral etiology of CAP, and viral etiologies are common in younger
+outpatients.[1][4][5][6]
+Epidemiology in pregnancy supports influenza as a major cause of acute
+respiratory illness with lower respiratory tract involvement; studies in
+pregnant cohorts show influenza frequently identified among viral ALRTIs.
+The ACOG and the Infectious Diseases Society of America emphasize
+prompt recognition and treatment of suspected influenza in pregnancy.[3]
+[5][6][7][8]
+Less likely alternatives:
+Streptococcus pneumoniae and Haemophilus influenzae typically cause
+lobar or bronchopneumonia rather than predominant interstitial patterns
+and lack prominent systemic myalgias; onset can be less abruptly systemic.
+[1][2][4]
+Mycobacterium tuberculosis usually presents subacutely/chronic, often
+with constitutional symptoms over weeks and upper-lobe involvement;
+acute myalgias and abrupt symptom onset are atypical.[1]
+Legionella pneumophila would suggest high fevers, GI symptoms,
+hyponatremia, and exposure risk; not evident here.[1]
+Pseudomonas aeruginosa is uncommon without structural lung disease or
+healthcare exposure.[1]
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Clinical implication: In pregnancy with suspected influenza, initiate
+neuraminidase inhibitor therapy promptly; oseltamivir 75 mg orally twice daily
+for 5 days is recommended by the Infectious Diseases Society of America and
+ACOG, ideally within 48 hours but not withholding if later.[6][8]";"Pregnant patient with acute fever, myalgias, cough, and interstitial pulmonary infiltrates; the most likely infectious agent is influenza A virus, which is especially important in pregnancy because of increased maternal risk and the need for prompt antiviral treatment."
+140;Gilson Inácio da Silva;Equipe 2 - Medicina;140;139;"A 7-year-old boy is brought to the physician because of a 1-year history of
+poor performance in school. His parents
+say that he is bright, has many friends, and seems to want to do well in
+school. His teachers report that he seems
+frustrated with his own progress and his inability to meet the expectations
+of his parents. Speech fluency and
+articulation and motor skills are appropriate for age. Physical examination
+shows no abnormalities. When asked to
+read during the examination, he has significant difficulty sounding out
+words he is unfamiliar with. Visual acuity
+test and audiometry show no abnormalities. Which of the following is the
+most likely diagnosis?";Attention-deficit/hyperactivity disorder;Expressive language disorder;Intellectual developmental disorder;Learning disorder;Social anxiety disorder (social phobia);;;;;D;D;Medium;Pediatrics / Neurodevelopment;Guidance on specific learning disorder evaluation;"The most likely diagnosis is Learning disorder.
+The child has persistent, specific reading impairment—difficulty sounding out
+unfamiliar words—despite normal speech, motor skills, and sensory function,
+and with otherwise intact cognition and sociability. This pattern is characteristic
+of specific learning disorder with impairment in reading (dyslexia), which
+requires academic skills substantially below age expectations, persists despite
+targeted help, begins in school years, and is not better explained by intellectual
+disability, language disorder, or sensory deficits.[1] Expressive language disorder
+would present with impaired expressive language (e.g., syntax, verb use), not
+isolated decoding failure.[2] Intellectual developmental disorder requires global
+deficits in intellectual and adaptive functioning, which are absent here.[3] ADHD
+is not suggested by attention/hyperactivity symptoms. Social anxiety disorder
+centers on fear of scrutiny and avoidance, not isolated phonologic decoding
+deficits.[4] The course is chronic and non-urgent.[5]
+To contextualize why social anxiety is unlikely in this vignette (despite poor
+school performance), the DSM-5 criteria emphasize fear of negative evaluation
+and avoidance of social or performance situations, which are not described in
+this case.[4]
+Table 1. Diagnostic Criteria for Social Anxiety Disorder.
+Used under license from The New England Journal of Medicine.
+Key features supporting specific learning disorder (reading/dyslexia):
+Persistent inaccurate/effortful word reading and difficulty sounding out
+words.[1]
+Academic underachievement confined to reading; normal speech fluency/
+articulation and normal hearing/vision.[1][2]
+No global intellectual/adaptive deficits.[3]
+Not better accounted for by anxiety or attentional disorders.[1][4]
+The American Psychiatric Association’s DSM-5-TR criteria (2022) specify these
+diagnostic elements and exclusion criteria.[1]
+• 
+• 
+• 
+•";"Child with persistent difficulty sounding out unfamiliar words despite normal hearing, vision, speech, and motor development; the presentation is most consistent with specific learning disorder with impairment in reading."
+141;Gilson Inácio da Silva;Equipe 2 - Medicina;141;140;"A 23-year-old woman who is an active-duty enlisted airman in the US Air
+Force comes to the base clinic because of
+a 4-week history of an itchy sensation in her right ear. She has not had
+ringing in her ears or hearing loss. She works
+as a fuel specialist and at first attributed her symptom to the earplugs she
+uses when she is on the flight line. The
+symptom has not improved despite the patient's wearing headphones
+instead of the earplugs during the past 2 weeks.
+She has no history of serious illness and takes no medications. Vital signs
+are within normal limits. During
+examination, pulling of the right pinna inferiorly to examine the ear canal
+produces pain. The right ear canal appears
+erythematous and edematous. The tympanic membrane cannot be fully
+visualized because of the presence of
+cerumen. Examination of the left ear shows no abnormalities. Which of the
+following is the most likely diagnosis?";Cerumen impaction;Ear canal trauma;Otitis externa;Polychondritis;Seborrheic dermatitis;;;;;C;C;Easy;Otolaryngology;Clinical practice guideline — acute otitis externa;"Otitis externa (C)
+The most likely diagnosis is otitis externa because the patient’s symptoms and
+examination findings—especially pain with pinna movement and canal
+inflammation—are classic for this condition and are best explained by infection
+of the external auditory canal rather than cerumen impaction, trauma, or
+dermatologic disease.[1][2][3][4][5] Pruritus, canal erythema/edema, and marked
+tenderness with manipulation of the pinna or tragus are hallmark features;
+occupational earplug use and minor canal trauma are common precipitants.[1][2]
+[3][5][6][7] Cerumen impaction alone would not cause pain with pinna
+movement or diffuse canal edema; trauma typically requires a clear inciting
+injury with focal findings; polychondritis involves the cartilaginous pinna sparing
+the lobule, often bilateral and systemic; seborrheic dermatitis causes scaling/
+erythema without severe tragal/pinna tenderness or canal edema.[2][3][4][8]
+The diagnosis is clinical; absence of systemic symptoms and unilateral canal
+inflammation further support uncomplicated acute otitis externa in this setting.
+[1][2][3][4]";Itchy ear with pain on pinna manipulation, erythematous and edematous external canal, and no major systemic symptoms are classic for acute otitis externa.
+142;Gilson Inácio da Silva;Equipe 2 - Medicina;142;141;"A 34-year-old woman who is on active duty in the US Army comes to the
+military urgent care clinic because of a 4-
+day history of headache, purulent nasal discharge, and left facial pain. She
+has not had fever or chills. She has
+chronic bilateral knee pain, which she attributes to multiple parachute
+jumps while she was assigned to an airborne
+unit 7 years ago. The knee pain is exacerbated by long-distance running on
+pavement. Her only medication is
+occasional ibuprofen for the knee pain. The patient has no known
+medication allergies. Temperature is 37.1°C
+(98.8°F), pulse is 60/min, respirations are 14/min, and blood pressure is
+122/80 mm Hg. Cervical lymph nodes are
+not palpable. There is tenderness to palpation over the left maxillary sinus.
+Nasal examination shows inflamed
+turbinates and purulent discharge. The patient needs to blow her nose
+twice during the examination. Bilateral
+otoscopic examination discloses no abnormalities. Examination of the
+oropharynx shows scant purulent discharge
+posteriorly. The remainder of the examination discloses no abnormalities.
+Which of the following is the most
+appropriate next step in management?";CT scan of the sinuses;Gram stain and culture of nasal discharge;Ibuprofen and decongestant therapy;Trimethoprim-sulfamethoxazole therapy;X-ray of the sinuses;;;;;C;C;Easy;Otolaryngology / Internal Medicine;Guidance on acute rhinosinusitis;"The most appropriate next step is symptomatic management with analgesics and
+decongestants for uncomplicated acute rhinosinusitis of 4 days’ duration.
+Therefore, the correct answer is: Ibuprofen and decongestant therapy.
+Rationale:
+Presentation is consistent with viral acute rhinosinusitis (<7–10 days,
+nonsevere, no “double sickening”), for which watchful waiting and
+symptomatic therapy are recommended; antibiotics are reserved for
+persistent (>10 days), severe, or worsening illness.[1][2][3][4]
+Imaging (CT or X-ray) and routine Gram stain/culture of nasal discharge
+are not indicated in uncomplicated cases.[2][3][5][6]
+Trimethoprim–sulfamethoxazole is not recommended empirically due to
+high resistance in S. pneumoniae and H. influenzae (IDSA).[7]
+Practical symptomatic options:
+Ibuprofen as needed for pain; consider intranasal corticosteroids and brief
+topical nasal decongestant use (?3–5 days) or oral decongestants for
+congestion; saline irrigation may help with purulent drainage.[1][2][4][8]
+If symptoms persist beyond 7–10 days or worsen, initiate antibiotics (e.g.,
+amoxicillin or amoxicillin–clavulanate per guideline).[1][2][4]
+To contextualize when antibiotics would be used if criteria are later met, the
+following table lists recommended antibiotic options and dosing from NEJM.[1]
+• 
+• 
+• 
+• 
+Here is a concise table of recommended first-line antibiotic options and dosing
+for adults with acute bacterial sinusitis, useful if watchful waiting fails or severe
+criteria develop:
+Table 1. Recommended Antibiotics for the Treatment of Acute Bacterial Sinusitis in Adults.
+Used under license from The New England Journal of Medicine.
+Citations: NEJM clinical practice review on acute sinusitis; AAFP reviews; ACP/
+CDC high-value care advice; American Academy of Otolaryngology–Head and
+Neck Surgery guideline; IDSA ABRS guideline (Trimethoprim–sulfamethoxazole
+not recommended); IDSA/ASM diagnostic microbiology guidance (avoid nasal
+discharge cultures).[1][2][3][4][5][6][7][8]";"Short-duration acute rhinosinusitis with purulent nasal discharge and maxillary sinus tenderness, without severe features or prolonged course; the appropriate next step is symptomatic treatment with ibuprofen and decongestants rather than imaging or antibiotics."
+143;Gilson Inácio da Silva;Equipe 2 - Medicina;143;142;"A 16-year-old boy with VATER syndrome is brought to the physician
+because of 2-week history of harsh cough that
+began with a common cold. He receives no medications. Temperature is
+37°C (98.6°F), pulse is 70/min, respirations
+are 20/min, and blood pressure is 112/64 mm Hg. Examination shows a
+harsh vibratory sound in the mid anterior
+chest with forced expiration. A systolic murmur is heard best at the lower
+left sternal border. There is mild scoliosis.
+Spirometry shows an FVC of 2.54 L (78% of predicted) and a slow vital
+capacity of 2.88 L (85% of predicted). A
+flow volume loop shows scooping on the expiratory limb. Which of the
+following is the most likely cause of the
+discrepancy between this patient’s forced and slow vital capacity
+measurements?";Bronchospasm;Laryngeal braking;Subglottic mass;Tracheal collapse;Upper airway compression;;;;;D;D;Hard;Pediatric Pulmonology;Literature on tracheomalacia / dynamic tracheal collapse;"Tracheal collapse
+The clinical context (history of TEF in VATER association, harsh expiratory
+vibratory sound) and spirometry pattern (expiratory scooping on the flow–
+volume loop) point to intrathoracic tracheomalacia with dynamic expiratory
+collapse. During a forced maneuver, dynamic central airway collapse and early
+airway closure reduce exhaled volume, so FVC underestimates true vital
+capacity, whereas SVC obtained with a slow maneuver is less affected and closer
+to the actual VC. This produces the observed FVC < SVC discrepancy. The
+American Thoracic Society/European Respiratory Society technical standards
+recognize that dynamic airway collapsibility can lead to a lower FVC than SVC
+and that inspiratory–expiratory loop abnormalities help localize intrathoracic
+central airway obstruction.[1] Tracheomalacia is classically associated with TEF/
+EA and VACTERL, and presents with barking/harsh cough and expiratory noise;
+expiratory flow–volume “scooping” and dynamic collapse are well described in
+pediatric tracheobronchomalacia.[2][3][4][5]
+Alternatives are less consistent:
+Bronchospasm primarily causes airflow limitation but does not typically
+explain a marked SVC > FVC difference attributable to dynamic central
+airway collapse.[6][7][8]
+Laryngeal braking and extrathoracic lesions (subglottic mass, upper airway
+compression) produce inspiratory plateaus or variable extrathoracic
+patterns rather than intrathoracic expiratory collapse with scooped
+expiratory limb.[1]
+Thus, dynamic intrathoracic airway collapse best explains the discrepant FVC
+and SVC in this patient.[1][2][3][4][5]";"Teenager with VATER syndrome, harsh expiratory cough/noise, and expiratory flow-volume loop abnormality; the discrepancy between FVC and slow vital capacity is best explained by dynamic intrathoracic tracheal collapse (tracheomalacia)."
+144;Gilson Inácio da Silva;Equipe 2 - Medicina;144;143;"A chief medical officer at a hospital has received several reports that one of
+her colleagues, a 64-year-old male
+surgeon, has “not been acting like himself” recently. An administrative
+assistant says that during the past 6 months,
+the surgeon’s dictations have become hard to follow and appear to be
+missing information; previously, they were
+comprehensive and easy to transcribe. The assistant adds that after the
+surgeon missed three meetings in a row
+during the past 2 months, he asked her to send him a text message 5
+minutes before the next meeting to let him
+know its location. Previously, he was always in attendance and on time for
+meetings. A senior resident also has
+noted unusual behavior by the surgeon; the resident says that while on
+rounds 3 days ago, the surgeon listed
+incorrect indications for a specific surgical procedure. A scrub nurse
+reported that the surgeon used unsterile
+practices three times during a 2-hour procedure today. The chief medical
+officer meets with the surgeon and asks
+him about these reported incidents. The surgeon says that “nothing is
+wrong” and the people who reported him are
+angry with him for various reasons and “are trying to stir up trouble.”
+Which of the following is the most appropriate
+action for the chief medical officer to take?";Accept the surgeon’s answer and only pursue further action if there is;Determine whether other staff have noticed anything different about;Inform the surgeon that he should consider retirement;Instruct the surgeon to take a temporary leave of absence and undergo;;;;;;D;D;Medium;Medical Ethics / Psychiatry;Guidance on impaired physician and patient safety;"The most appropriate action is to Instruct the surgeon to take a temporary
+leave of absence and undergo a medical evaluation.
+Recent cognitive and behavioral changes with patient safety implications
+(incorrect indications, unsterile technique) constitute a sentinel concern that
+warrants immediate restriction of clinical duties and prompt, formal fitness-for-
+duty evaluation, irrespective of the surgeon’s denial or lack of insight. Deferring
+action until further complaints or informally canvassing staff risks patient harm
+and delays necessary assessment.[1][2][3][4]
+Best practices include:
+Immediate temporary removal from clinical duties to protect patients while
+evaluation proceeds.[2][3][4]
+Comprehensive assessment encompassing medical, psychiatric, substance
+use, sensory, and cognitive/neuropsychological testing (e.g., MoCA,
+MicroCog; escalation to full neuropsychological assessment as indicated) to
+determine fitness and guide remediation or scope modification.[1][2][3][5]
+[6][7][8]
+A supportive, policy-based process through the medical staff well-being/
+credentialing structure, with pathways for remediation, restriction, or
+retirement calibrated to findings.[1][2][3][5]
+• 
+• 
+• 
+Rationale: Physicians are poor self-assessors; peer reports alone are insufficient
+safeguards. Institutional policies and the American College of Physicians
+emphasize acting on credible concerns to ensure patient safety, with
+rehabilitation and reintegration when possible.[1][3][7][8]";"Older surgeon with progressive cognitive and behavioral changes affecting documentation, judgment, and sterile technique; the appropriate action is temporary removal from clinical duties and formal medical evaluation to protect patient safety."
+145;Gilson Inácio da Silva;Equipe 2 - Medicina;145;144;"A 33-year-old woman is admitted to the hospital because of visual field loss
+following a 48-hour history of acute eye
+pain. She also has a 3-week history of numbness and a feeling of
+""heaviness"" in both legs. She has no history of
+serious illness and takes no medications. Six weeks ago, she returned from
+a hiking expedition in the northeastern
+USA; she has no recent history of international travel. Vital signs are within
+normal limits. Muscle strength is 5/5 in
+the upper extremities, 3/5 in the hip flexors and knee extensors, and 4/5
+in the knee flexors and ankle dorsiflexors.
+Patellar and ankle reflexes are 3+ bilaterally, and there is nonsustained
+ankle clonus bilaterally. Sensation to
+pinprick is absent throughout the lower extremities. Ophthalmologic
+examination discloses optic neuritis and
+reconfirms the visual field loss. Which of the following studies is most likely
+to confirm the diagnosis?";CT scan of the cervical spine;Electromyography and nerve conduction studies;Lumbar puncture for examination of cerebrospinal fluid;Measurement of serum Lyme (Borrelia burgdorferi) antibody;MRI of the brain;;;;;E;E;Medium;Neurology;Guidance on optic neuritis / demyelinating disease / multiple sclerosis;"Magnetic resonance imaging of the brain
+The presentation (acute optic neuritis, painful visual loss, and concurrent
+pyramidal and sensory signs with hyperreflexia and clonus) is classic for a
+demyelinating clinically isolated syndrome highly suggestive of multiple sclerosis
+(MS). Brain MRI is the most sensitive test to demonstrate characteristic
+demyelinating lesions in typical locations and to establish dissemination in space
+and, with contrast or new lesions over time, dissemination in time, enabling
+confirmation per contemporary diagnostic practice.[1][2][3][4] In optic neuritis
+cohorts, abnormal brain MRI strongly predicts conversion to MS and
+outperforms other modalities for initial confirmation, while optic nerve/3D-DIR
+sequences further increase sensitivity to optic pathway involvement in MS
+contexts.[1][2][3]
+CSF analysis for oligoclonal bands supports diagnosis and can substitute for
+dissemination in time under the 2017 McDonald framework, increasing
+diagnostic sensitivity when MRI shows dissemination in space; however, MRI
+remains the primary study to confirm MS in this clinical scenario and LP is
+typically reserved for atypical or equivocal cases.[2][4][5][6][7]
+Computed tomography lacks sensitivity for demyelination. Electromyography/
+nerve conduction studies evaluate peripheral neuropathies and neuromuscular
+disorders rather than central demyelination, and are not confirmatory here.[8][9]
+Lyme serology is not first-line in this presentation without specific
+epidemiologic or clinical features suggesting neuroborreliosis.";"Young woman with optic neuritis and upper motor neuron signs in the lower extremities; the presentation is highly suggestive of a demyelinating disorder such as multiple sclerosis, and brain MRI is the most appropriate study to confirm the diagnosis."
+146;Gilson Inácio da Silva;Equipe 2 - Medicina;146;145;"A 68-year-old woman comes to the office because she is concerned about
+developing Alzheimer disease. She says
+she has had increasing difficulty recalling names of people and objects
+during the past 6 months. She has not had
+difficulty with her activities of daily living, finances, or shopping. She
+teaches part-time at a local community
+college. She has no history of serious illness and takes no medications. She
+does not smoke cigarettes. She drinks
+one 5-oz glass of wine daily. Her mother developed dementia, Alzheimer
+type, in her mid 70s. Physical and
+neurologic examinations of the patient show no abnormalities. On
+cognitive testing, she has delayed recall of three
+of five words. She is able to perform serial sevens, knows similarities, is
+fully oriented, and has intact executive,
+visuospatial, and attention abilities. Which of the following is the most
+appropriate next step in management?";Amyloid plaque imaging;Determination of ApoE allele status;Measurement of beta-amyloid in the cerebrospinal fluid;MRI of the brain with volumetric analysis;No additional diagnostic studies are indicated;;;;;E;E;Medium;Geriatrics / Neurology;Guidance on mild cognitive impairment;"No additional diagnostic studies are indicated
+This presentation is typical amnestic mild cognitive impairment (MCI): objective
+memory deficit with preserved IADLs and normal neurologic exam. In such
+cases, consensus guidance emphasizes clinical monitoring and risk-factor
+management rather than advanced biomarker testing, because routine use of
+amyloid PET, CSF biomarkers, APOE genotyping, or MRI volumetrics does not
+change management or improve outcomes in typical MCI without atypical
+features or rapid progression.[1][2][3][4][5][6] The American Academy of
+Neurology (AAN) advises serial follow-up to track progression and address
+modifiable contributors (e.g., vascular risk, depression, medications), with
+counseling on exercise and cognitive/social engagement; no disease-modifying
+pharmacotherapy has proven benefit at this stage.[1][2]
+Why not the other options:
+Amyloid PET: Appropriate only when results are expected to alter
+management after expert evaluation in atypical/unclear cases; not for
+routine MCI with typical features, and outcome benefit is unproven.[4][5]
+APOE genotyping: Not recommended for routine evaluation; does not alter
+management.[4]
+CSF beta-amyloid: May be considered when diagnosis is unclear or atypical;
+not routinely indicated in straightforward MCI.[4]
+MRI with volumetrics: Imaging in MCI is adjunctive to exclude structural
+mimics when clinically suspected; routine volumetrics are not required in a
+typical case.[3]
+Plan: longitudinal cognitive follow-up; optimize vascular risk factors, sleep,
+mood; encourage aerobic exercise and cognitive/social engagement.[1][2]
+• 
+• 
+• 
+•";"Older woman with isolated memory impairment, preserved daily functioning, and otherwise intact cognition; the presentation is most consistent with amnestic mild cognitive impairment, and routine advanced diagnostic studies are not indicated at this stage."
+147;Gilson Inácio da Silva;Equipe 2 - Medicina;147;146;"A 55-year-old man with major depressive disorder is brought to the
+emergency department 1 1/2 hours after he was
+found by his brother in his home acting strangely. On arrival, he is babbling
+incoherently and cannot answer
+questions. There are two empty pill bottles in his pockets; one is for
+paroxetine and the other is for duloxetine. He is
+restless, diaphoretic, and says he has a severe headache. Temperature is
+38.5°C (101.3°F), pulse is 130/min, and
+blood pressure is 145/105 mm Hg. The pupils are 8 mm and reactive to
+light. Deep tendon reflexes are 4+ and
+symmetric in all extremities. There is spontaneous myoclonus in the upper
+extremities. Results of laboratory studies,
+including a complete blood count, serum electrolyte concentrations,
+creatine phosphokinase activity, and thyroid
+function tests, are within the reference ranges. After admitting the patient
+to the hospital for observation and
+supportive care, what are you going to give or change in terms of
+pharmacotherapy?";Add carbamazepine to the medication regimen;Add dantrolene to the medication regimen;Add haloperidol to the medication regimen;Discontinue paroxetine and duloxetine;Switch from duloxetine to olanzapine;;;;;D;D;Medium;Psychiatry / Toxicology;Guidance on serotonin syndrome;"The presentation (abrupt onset after overdose of two serotonergic agents,
+agitation, hyperthermia 38.5°C, tachycardia, hypertension, dilated pupils,
+hyperreflexia 4+, and spontaneous myoclonus) meets Hunter/Sternbach features
+of serotonin syndrome rather than NMS or anticholinergic toxicity.[1][2][3][4][5]
+[6] First-line management is immediate cessation of serotonergic drugs and
+supportive care; antidopamine agents or dantrolene are not indicated for
+serotonin toxicity.[4][5][7][8][9] Cyproheptadine can be used for moderate–
+severe cases but is not the pharmacotherapy “to add” in this stem after initial
+stabilization.[4][5][8]
+Therefore, the best choice is to stop the offending agents: Discontinue
+paroxetine and duloxetine.[4][5][7][8][9]
+Why not the other options:
+Dantrolene treats NMS, not serotonin syndrome; its use in SS lacks
+evidence.[2][9]
+Haloperidol and olanzapine may worsen hyperthermia/rigidity or confound
+NMS vs SS; they do not treat SS pathophysiology.[2][9]
+Carbamazepine offers no benefit for SS and adds drug–drug risks.
+The following comparative table underscores the distinguishing neuromuscular
+findings (hyperreflexia/clonus in SS vs rigidity and reduced reflexes in NMS),
+supporting discontinuation of serotonergic agents as the correct action in this
+scenario.[2]
+This table contrasts serotonin syndrome with NMS across key clinical features,
+highlighting hyperreflexia and clonus as signals of serotonin toxicity that direct
+management toward stopping serotonergic agents and supportive care rather
+than dantrolene or antipsychotics.
+• 
+• 
+• 
+Table 1. Disorders That Simulate Neuroleptic Malignant Syndrome (NMS).*
+Used under license from The New England Journal of Medicine.";"Patient with overdose of serotonergic agents, hyperthermia, diaphoresis, hyperreflexia, and spontaneous myoclonus; the presentation is classic for serotonin syndrome, and the appropriate pharmacologic step is to discontinue the offending serotonergic medications."
+148;Gilson Inácio da Silva;Equipe 2 - Medicina;148;147;"A 32-year-old man comes to the office for a follow-up examination 2
+months after he was diagnosed with
+hypertension. He arrives late for the appointment, stating that he had to
+make sure no one followed him here because
+some ""drug dealers"" are after him. He insists that he be seen in an
+examination room with no windows. He says he is
+""fine"" but is reluctant to answer questions because ""doctors hold
+everything against me."" He doubts his diagnosis
+and says, ""Doctors and drug companies are in cahoots trying to get my
+money."" He refuses to speak with the office
+manager about his bill because he thinks ""she looks at me funny and makes
+nasty remarks about me behind my
+back."" He says he has no history of psychiatric illness; his medical record
+indicates that he has made similar
+statements during the past 7 years concerning doctors and office staff but
+he always refused to elaborate on his
+statements. His medications are metoprolol and hydrochlorothiazide. He
+does not drink alcohol or use illicit drugs.
+Vital signs are within normal limits. Physical and neurologic examinations
+show no abnormalities. Results of
+screening laboratory studies are within the reference ranges. Which of the
+following is the most appropriate next
+step in management?";Begin clonazepam therapy;Begin risperidone therapy;Begin sertraline therapy;Determine whether the patient has friends or family who can monitor;Determine whether the patient has had thoughts of harming others;;;;;E;E;Medium;Psychiatry;APA guideline — initial psychiatric evaluation and violence risk;"Determine whether the patient has had thoughts of harming others.
+Safety assessment is the first priority in a patient with chronic paranoid ideation.
+The American Psychiatric Association recommends that the initial psychiatric
+evaluation explicitly assess current and prior homicidal or aggressive thoughts,
+past violent behaviors, access to weapons, targets, and related risk factors, with
+documentation of risk estimation.[1] Paranoid delusions can be associated with
+violence risk; rapid determination of dangerousness informs need for urgent
+referral, possible involuntary hold, or hospitalization as outlined in pediatric-to-
+young-adult care pathways when safety is a concern.[2] Only after establishing
+safety should treatment (e.g., antipsychotic initiation for suspected delusional
+disorder) be pursued; while second-generation antipsychotics such as
+risperidone can be effective in persistent delusional disorder, therapy selection
+and setting hinge on the risk assessment.[3][4]
+Practical next steps after asking about homicidal ideation include:
+If any positive or concerning responses: assess specifics (intent, plan,
+means, targets), access to firearms, impulsivity, substance use, and arrange
+ED/psychiatric evaluation urgently as needed.[1][2]
+If risk is low and no dangerousness: proceed with outpatient management,
+including discussing antipsychotic options and adherence strategies, and
+consider collateral information and monitoring supports.
+• 
+• 
+Initiating clonazepam or sertraline does not address psychosis and is not
+appropriate before safety is established; starting risperidone may be reasonable
+subsequently but should follow a structured risk assessment.[1][2][3]";"Patient with chronic persecutory/paranoid ideation and impaired trust in healthcare staff; the most appropriate next step is to assess for thoughts of harming others because safety and violence risk must be clarified before treatment decisions."
+149;Gilson Inácio da Silva;Equipe 2 - Medicina;149;148;"An 87-year-old woman, gravida 2, para 2, is brought to the emergency
+department from a skilled nursing care
+facility because of profuse vaginal bleeding for 2 days. At the age of 41
+years, she underwent a cold knife cone
+biopsy for cervical dysplasia. Annual follow-up Pap smears until the age of
+65 years showed no abnormalities. She
+is in moderate distress. Temperature is 36.1°C (97.0°F), pulse is 84/min,
+respirations are 30/min, and blood pressure
+is 140/90 mm Hg. Abdominal examination shows mild distention and
+tenderness; no masses are palpated. Pelvic
+examination shows a large verrucous lesion on the perineum partially
+covering the anal verge. Speculum
+examination shows atrophic changes on the vagina and cervix. Which of
+the following is the most likely explanation
+for these findings?";Cervical carcinoma;External hemorrhoids;Rectal carcinoma;Rectal polyps;Vulvar carcinoma;;;;;E;E;Medium;Gynecologic Oncology;Guidance on vulvar carcinoma;"Vulvar carcinoma
+A large verrucous perineal lesion in an elderly woman, partially covering the anal
+verge, with associated bleeding is most consistent with vulvar squamous cell
+carcinoma, often with verrucous morphology in this age group. Verrucous
+carcinoma of the vulva presents as an exophytic, warty mass in older women and
+may bleed or ulcerate.[1][2][3][4] The anatomic location (perineum/vulva
+abutting the anal verge) and morphology argue against rectal carcinoma or
+polyps, which typically present intraluminally; external hemorrhoids are not
+verrucous and usually cause perianal pain/itching with defecation rather than
+profuse vaginal bleeding.[5] Cervical carcinoma is less likely given decades of
+normal screening through age 65, atrophic cervix on exam, and the lesion’s
+location and appearance.[6] While colorectal and anal primaries can rarely mimic
+gynecologic disease, the described exophytic verrucous vulvar/perineal mass in
+this clinical context favors a primary vulvar malignancy.[7] Biopsy is required for
+confirmation and staging.[2]";"Older woman with profuse bleeding and a large verrucous perineal/vulvar lesion partially covering the anal verge; the presentation is most consistent with vulvar carcinoma rather than cervical, rectal, or hemorrhoidal disease."
+150;Gilson Inácio da Silva;Equipe 2 - Medicina;150;149;"A 47-year-old woman comes to the office for a routine health maintenance
+examination. She feels well and has no
+history of serious illness. Examination shows a 2-cm, soft, nontender
+nodule in the right lobe of the thyroid gland.
+There is no lymphadenopathy. Her serum thyroid-stimulating hormone
+concentration is within the reference range.
+Which of the following is the most appropriate initial step in management?";CT scan of the neck;Fine-needle aspiration biopsy;Reexamination in 3 months;Surgical excision;Ultrasonography of the thyroid gland;;;;;E;E;Medium;Endocrinology;ATA guideline — thyroid nodule evaluation;"The most appropriate initial step is to obtain a diagnostic neck ultrasound. In an
+asymptomatic, euthyroid patient with a newly palpated 2-cm thyroid nodule,
+ultrasound is the first test to characterize composition, echogenicity, margins,
+calcifications, shape, and cervical nodes; these sonographic features, together
+with size, determine whether fine-needle aspiration (FNA) is indicated.[1][2][3][4]
+[5] CT and surgery are not first-line without compressive or invasive features;
+short-interval clinical reexamination without imaging is not recommended.[1][6]
+[7]
+Therefore, the correct choice is: Ultrasonography of the thyroid gland.
+How ultrasound guides next steps:
+If high/intermediate suspicion features are present, US-guided FNA is
+recommended at ?1 cm; for low suspicion, ?1.5 cm; for very low suspicion,
+consider FNA at ?2 cm or observation. Given a 2-cm nodule, FNA would be
+indicated if the ultrasound is ?low suspicion.[4][5]
+The table below, endorsed by contemporary guidelines, summarizes how
+standardized ultrasound risk systems direct FNA decisions, which is precisely
+why ultrasound is the first step.
+• 
+Table 1. Standardized Sonographic Scoring Systems Proposed or Endorsed by Practice Guidelines for
+Risk-Based Fine-Needle Aspiration Biopsy Guidance for Thyroid Nodules
+Used under license from JAMA Network.
+Why other options are not first:
+Fine-needle aspiration: performed selectively based on ultrasound
+features/size, not before ultrasound.[1][4][5]
+CT neck: not recommended for routine initial evaluation; reserved for
+suspected invasive disease, substernal extension, or nodal disease not well-
+visualized on ultrasound.[6][7]
+Surgical excision: not indicated without cytologic/clinical suspicion.[1][4]
+[5]
+• 
+• 
+• 
+Reexamination in 3 months: delays essential risk stratification; ultrasound
+should be performed now.[1][5]";"Euthyroid adult with a newly detected 2-cm thyroid nodule; the most appropriate initial step is thyroid ultrasound to characterize sonographic features and determine whether fine-needle aspiration is indicated."
+151;Gilson Inácio da Silva;Equipe 2 - Medicina;151;150;"A 1-hour-old male newborn is examined in the hospital nursery. He was
+born at term to a 22-year-old woman,
+gravida 1, para 1, with HIV infection. The mother took antiretroviral therapy
+throughout her pregnancy, and her HIV
+viral load was consistently <1000 copies/mL. She received intravenous
+zidovudine (AZT) during labor. The
+patient’s Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. He is at
+the 50th percentile for length, weight,
+and head circumference. He appears well. Examination shows no
+abnormalities. In addition to administration of the
+hepatitis B vaccine, which of the following is the most appropriate
+pharmacotherapy for this newborn?";Lopinavir-ritonavir and trimethoprim-sulfamethoxazole;Lopinavir-ritonavir only;Penicillin;Trimethoprim-sulfamethoxazole only;Zidovudine (AZT);;;;;E;E;Medium;Pediatrics / Infectious Diseases;AAP / HHS guidance — prevention of perinatal HIV transmission;"Zidovudine (AZT)
+This term newborn is low risk for perinatal HIV transmission given maternal ART
+with sustained low viral load and intrapartum IV zidovudine. U.S. guidance
+(American Academy of Pediatrics and HHS Perinatal Panel) recommends
+neonatal zidovudine monotherapy started as soon as possible after birth
+(preferably within 6 hours). Duration can be shortened in low-risk infants;
+current HHS guidance favors 2 weeks for infants with sustained maternal
+suppression, with longer courses used in higher-risk scenarios.[1][2][3][4] Typical
+dosing for term infants: ZDV 4 mg/kg orally every 12 hours (if IV needed: 3 mg/
+kg every 12 hours); adjust per gestational age.
+Multi-drug presumptive therapy is reserved for high-risk exposures (e.g.,
+maternal viremia near delivery, no antepartum ART, or drug resistance).[1][2]
+Lopinavir-ritonavir is not recommended in neonates due to safety concerns and
+age restrictions, particularly in the immediate postnatal period.[1][2][5][6]
+Trimethoprim-sulfamethoxazole is not indicated at birth; it is used starting at 4–
+6 weeks only for infants with indeterminate or confirmed HIV infection for
+Pneumocystis prophylaxis.[1] Penicillin is used for congenital syphilis, not HIV
+prophylaxis.[7]";"Term newborn of a mother with well-controlled HIV infection and low viral load; this is a low-risk perinatal HIV exposure scenario, and the appropriate neonatal pharmacotherapy is zidovudine monotherapy."
+152;Gilson Inácio da Silva;Equipe 2 - Medicina;152;151;"A 25-year-old woman comes to the office because she has not had a
+menstrual period for 6 months. Previously,
+menses occurred at regular 28-day intervals. She has not had blurred or
+double vision. She has no history of serious
+illness and takes no medications. Temperature is 37.0°C (98.6°F), pulse is
+72/min, and blood pressure is
+108/60 mm Hg. The pupils are equal and reactive to light; extraocular
+muscles are intact. Funduscopic examination
+shows no abnormalities. Visual field testing shows bitemporal hemianopia.
+Milky discharge can be expressed from
+the nipples. Pelvic examination shows no abnormalities. Serum studies
+show a thyroid-stimulating hormone
+concentration of 2.0 ?U/mL and a prolactin concentration of 100 ng/mL. A
+urine pregnancy test is negative. MRI of
+the pituitary gland shows a 1.2 × 1.5-cm mass compressing the optic
+chiasm. Which of the following is the most
+appropriate next step in management?";Biopsy of the pituitary gland;Cabergoline therapy;Gamma knife radiation to the pituitary gland;Oral contraceptive therapy;Transsphenoidal pituitary surgery;;;;;B;B;Hard;Endocrinology / Gynecology;Guidance on prolactinoma / hyperprolactinemia;"The most appropriate next step is Cabergoline therapy.
+Rationale:
+This presentation is classic for a macroprolactinoma (1.2 × 1.5 cm) with
+chiasmal compression causing bitemporal hemianopia and
+hyperprolactinemia. First-line therapy for prolactinomas, including
+macroadenomas with visual field defects, is a dopamine agonist (preferably
+cabergoline), which both normalizes prolactin and rapidly shrinks tumor
+volume, often reversing visual compromise. According to a review
+published in JAMA:[1][2][3][4][5]
+""Dopamine agonist therapy is first-line treatment for patients with
+prolactinomas and for patients with idiopathic hyperprolactinemia
+(hyperprolactinemia without a discernible cause) who are
+symptomatic, those with macroadenomas, or those who are
+considering pregnancy. Bromocriptine (2.5-10 mg/d orally) and
+cabergoline (0.5-2.0 mg/wk orally) are approved by the US Food and
+Drug Administration (FDA) for treating hyperprolactinemia and
+prolactinomas.""
+—Nicholas A. Tritos, MD, DSc1,2 et al., Neuroendocrine Unit,
+Massachusetts General Hospital, Boston and other institutions. 
+Diagnosis and Management of Pituitary Adenomas: A Review. JAMA.
+April 25, 2023.
+Used under license from JAMA Network.
+Cabergoline typical starting dose: 0.25–0.5 mg twice weekly (0.5–1 mg/
+week), titrated to normalize prolactin and reduce tumor size, with close
+follow-up of visual fields and MRI to document early decompression. Rapid
+• 
+• 
+visual improvement can occur within days to weeks as the tumor involutes.
+[2][3][4]
+Surgery is not first-line in the absence of acute, rapidly progressive vision
+loss, apoplexy, dopamine-agonist intolerance, or resistance. Gamma knife is
+reserved for refractory disease after medical and surgical options. Biopsy is
+unnecessary given classic biochemical and radiographic findings. Oral
+contraceptives do not treat the underlying adenoma.[1][2][4][6]
+Additional note:
+Comparative data suggest similar short-term visual outcomes between
+initial medical and surgical approaches in macro/giant prolactinomas,
+further supporting initial dopamine agonist therapy unless there is urgent
+neuro-ophthalmologic deterioration.[7]
+Answer: Cabergoline therapy (choice B).";"Young woman with amenorrhea, galactorrhea, hyperprolactinemia, bitemporal hemianopia, and a pituitary macroadenoma compressing the optic chiasm; the most appropriate next step is cabergoline therapy as first-line treatment for macroprolactinoma."
+153;Gilson Inácio da Silva;Equipe 2 - Medicina;153;152;"A 2-week-old boy is evaluated in the neonatal intensive care unit because
+of temperature instability and decreased
+activity. He was born by cesarean delivery at 30 weeks’ gestation because
+of premature rupture of membranes. Since birth, he has been fed breast
+milk by orogastric tube. He was feeding and growing appropriately until
+today, when
+his axillary temperature was 36.5°C (97.7°F) and he had decreased activity.
+During the past 4 hours, gastric residue
+has been noted in the orogastric tube when it is aspirated prior to feedings.
+Temperature is now 37.0°C (98.6°F),
+pulse is 160/min, respirations are 50/min, and blood pressure is 70/40 mm
+Hg. The anterior fontanel is soft.
+Cardiopulmonary examination shows no abnormalities. The abdomen is
+mildly distended, and there is mild
+tenderness to palpation diffusely; there are no masses. Bowel sounds are
+decreased. There is a small amount of
+blood-streaked stool in the diaper. The remainder of the examination
+shows no abnormalities. Leukocyte count is
+18,000/mm³ (N=5000–34,000) (80% segmented neutrophils, 5% bands, 10%
+lymphocytes, and 5% monocytes), and
+platelet count is 100,000/mm³. Blood culture results are pending. Which of
+the following is most likely to confirm the diagnosis?";Measurement of prothrombin time and partial thromboplastin time;Measurement of stool reducing substances;Stool culture;Upper gastrointestinal series;X-ray of the abdomen;;;;;E;E;Medium;Neonatology;Guidance on necrotizing enterocolitis;"E) X-ray of the abdomen
+Abdominal radiography is the most likely study to confirm necrotizing
+enterocolitis (NEC) in this clinical context. Classic radiographic hallmarks include
+pneumatosis intestinalis, portal venous gas, and pneumoperitoneum, which are
+specific for NEC and establish the diagnosis in a compatible clinical setting. This
+patient’s temperature instability, abdominal distension, decreased bowel sounds,
+blood-streaked stool, and thrombocytopenia are highly concerning for NEC,
+where abdominal X-ray is the diagnostic test of choice due to speed, availability,
+and ability to visualize pathognomonic findings.[1]
+PT/PTT (A) may identify coagulopathy but does not confirm NEC. 
+Stool reducing substances (B) assess carbohydrate malabsorption; not
+diagnostic for NEC. 
+Stool culture (C) evaluates infectious diarrhea; yield is limited and not
+confirmatory for NEC, and culture-independent tests are preferred when
+bacterial gastroenteritis is suspected per the Infectious Diseases Society of
+America. [2]
+Upper GI series (D) is not first-line in suspected NEC given risk of
+perforation and limited utility.
+In neonates with hematochezia and abdominal distension, NEC is a leading
+cause; abdominal X-ray provides specific evidence to confirm the diagnosis and
+guide urgent management.[1][2]
+• 
+• 
+• 
+•";"Premature neonate with feeding intolerance, abdominal distension, blood-streaked stool, and thrombocytopenia; the presentation is highly suspicious for necrotizing enterocolitis, and abdominal X-ray is the most likely study to confirm the diagnosis."
+154;Gilson Inácio da Silva;Equipe 2 - Medicina;154;153;"A 13-month-old boy is brought to a small rural emergency department (ED)
+near his family's community because of an erythematous, edematous mass
+in his perianal area that is hot to touch. He has no history of serious illness
+and receives no medications. Growth and development are appropriate for
+age. Vaccinations are up-to-date. He is at the 50th percentile for length
+and weight. Temperature is 39.4°C (103.0°F), pulse is 160/min, and
+respirations are 36/min. Examination shows fluctuance and exquisite
+tenderness to palpation of the perianal mass. Oral acetaminophen and a
+dose of oral cephalexin are administered, and the parents are told that
+their child’s case is beyond the capabilities of the hospital. They are
+referred to the nearest hospital with a pediatric service, a suburban
+hospital 50 miles away. The suburban hospital is contacted regarding the
+referral and a pediatric surgeon accepts transfer of the patient. When the
+patient is brought to the ED of the suburban hospital, a triage nurse
+obtains his oral temperature of 37.7°C (99.8°F) and pulse of 126/min. The
+nurse notes that the family has no health insurance and states that the case
+is beyond the capabilities of the hospital. The nurse recommends taking
+the patient to the ED of a downtown university hospital 4 miles away. The
+parents follow this recommendation, and the patient undergoes incision
+and drainage of the abscess at the downtown hospital later that day. Which
+of the following is the most accurate characterization of this patient's
+pattern of care?";The patient received appropriate care under the circumstances;The pediatric surgeon at the suburban hospital should have insisted on;The rural hospital should have sent the patient directly to the;The suburban hospital executed unethical but legal conduct in this case;The suburban hospital violated the Emergency Medical Treatment and;;;;;E;E;Hard;Emergency Medicine / Health Ethics;EMTALA;"(E) The suburban hospital violated the Emergency Medical Treatment and
+Active Labor Act (EMTALA)
+EMTALA imposes a nondiscriminatory duty on Medicare-participating hospitals
+with emergency departments to provide an appropriate medical screening
+examination (MSE) to anyone who presents for emergency care and to provide
+necessary stabilizing treatment or an appropriate transfer if an emergency
+medical condition exists, regardless of insurance status.[1][2][3] The American
+College of Emergency Physicians emphasizes that the MSE and stabilizing care
+must not be delayed or denied based on ability to pay and that on-call specialists
+must respond within a reasonable time to provide stabilizing care within the
+hospital’s capabilities.[4] Pediatric patients are fully covered by EMTALA; consent
+or insurance issues cannot delay the MSE or stabilizing treatment, as noted by
+the American College of Emergency Physicians’ guidance on minors.[5][6]
+Here, the suburban hospital accepted the transfer for a child with a likely
+perianal abscess—an emergent, painful condition that typically requires timely
+incision and drainage. Redirecting the family upon arrival based solely on lack of
+insurance, without an MSE and stabilizing care, constitutes impermissible
+“patient dumping” under EMTALA’s screening and stabilization mandates.[1][2][7]
+The literature further underscores that financially motivated redirection or
+transfer is the type of conduct EMTALA was enacted to prevent.[8][9][10]";"Infant with an emergency condition was redirected after transfer acceptance because of lack of insurance; this pattern of care is most consistent with an EMTALA violation because emergency screening and stabilizing treatment cannot be denied on financial grounds."
+155;Gilson Inácio da Silva;Equipe 2 - Medicina;155;154;"A 25-year-old woman is brought to the emergency department by
+paramedics because of a seizure that began 45
+minutes ago at home. Intravenous antiepileptic therapy begun en route to
+the hospital has not stopped her seizure.
+Her parents report that she initially began crying, then fell to the floor and
+exhibited asymmetric kicking and
+thrashing of all extremities. Fifteen years ago, she was diagnosed with a
+seizure disorder. Her seizures had been well
+controlled with oral antiepileptic therapy until this morning. Today, while
+the physician is in the patient’s room, the
+movements of her extremities gradually subside. The patient then sits up
+and asks the physician what happened. She
+is fully oriented. Vital signs are within normal limits. Examination shows no
+evidence of tongue biting, urinary
+incontinence, or other abnormalities. Which of the following is most likely
+to confirm this patient’s diagnosis?";Interview following amobarbital administration;Measurement of serum antiepileptic concentration;Measurement of serum creatine kinase activity;Neuropsychological testing;Video EEG monitoring;;;;;E;E;Hard;Neurology / Psychiatry;Literature on psychogenic nonepileptic seizures;"The semiology described (prolonged event, ictal crying, asynchronous
+thrashing/kicking, preserved orientation, no tongue biting/incontinence, and
+refractoriness to AEDs) is most consistent with psychogenic nonepileptic
+seizures (PNES). The diagnostic gold standard is capturing a typical event
+without ictal epileptiform activity on simultaneous video-EEG. Therefore, the
+best confirmatory test is: Video electroencephalogram monitoring.
+PNES is suggested by long duration, fluctuating/asynchronous movements,
+ictal crying, eye closure, and absence of postictal confusion or injury. [1][2]
+[3]
+While neuropsychological testing and psychometrics may support the
+assessment, they do not confirm PNES and have limited standalone
+discriminative power. [4][5]
+Postictal labs (CK, prolactin) can be supportive but are neither necessary
+nor sufficient to confirm PNES and have limited sensitivity/negative
+predictive value. [6][7][8]
+Drug levels do not distinguish PNES from epilepsy. 
+In refractory or atypical cases, inpatient EMU evaluation with vEEG is
+recommended; expert consensus and the National Association of Epilepsy
+Centers emphasize vEEG as essential for differentiating epileptic from
+nonepileptic events.[9][10][11]";"Prolonged seizure-like episode with ictal crying, asynchronous thrashing, preserved orientation after the event, and no typical postictal findings; the presentation is most consistent with psychogenic nonepileptic seizures, and video EEG monitoring is the best confirmatory test."
+156;Gilson Inácio da Silva;Equipe 2 - Medicina;156;155;"A 32-year-old woman comes to the emergency department because of a 1-
+day history of sharp, right-sided chest
+pain that worsens with coughing and sneezing. Four days ago, she had a
+mild sore throat and runny nose followed
+by nonproductive cough 1 day later. Over-the-counter decongestant and
+aspirin mildly relieved the symptoms. She
+has not had shortness of breath, blood-tinged sputum, fever, or chills. She
+has a long-standing history of recurrent
+aphthous ulcers. Her only medication is an oral contraceptive. Temperature
+is 37.2°C (99.0°F), pulse is 65/min, and
+respirations are 14/min. Pulse oximetry on room air shows an oxygen
+saturation of 99%. Splinting is observed over
+the right hemithorax with deep breathing. On cardiac examination, no
+abnormalities are heard. The remainder of the
+examination shows no abnormalities. Chest x-ray shows no abnormalities.
+Which of the following is the most
+appropriate next step in management?";Azithromycin therapy;CT angiography;Electrocardiography;Ibuprofen therapy;Prednisone therapy;;;;;D;D;Easy;Internal Medicine / Emergency Medicine;Guidance on pleuritic chest pain / viral pleurisy;"Ibuprofen therapy
+The presentation (young woman with viral prodrome, sharp pleuritic right-sided
+chest pain, normal vitals and oxygenation, normal chest radiograph, and chest
+wall splinting) is most consistent with viral pleurisy/nonspecific pleuritic chest
+pain. For uncomplicated, low-risk pleuritic chest pain after a viral URI, first-line
+management is NSAIDs for analgesia and anti-inflammatory effect; further
+testing is not indicated when serious causes have been reasonably excluded
+clinically and by chest radiography.[1][2][3][4] The American College of
+Cardiology/American Heart Association multisociety chest pain guideline
+emphasizes prioritizing exclusion of life-threatening causes; in a low-risk patient
+without red flags, additional testing (ECG, CTA, echocardiography) is not
+routinely required.[2][3] Pericarditis is unlikely given absence of positional
+component, friction rub, ECG changes, or effusion; if suspected, NSAIDs are also
+first-line.[5]
+Reason against azithromycin: no evidence of bacterial pneumonia (afebrile,
+normal CXR), and antibiotics are not indicated for acute bronchitis/viral
+pleurisy in this setting.[1][6][7]
+Reason against prednisone: no indication; short courses carry measurable
+risks (e.g., VTE), particularly relevant in an oral contraceptive user.[8]
+Reason against CTA/ECG/echo: no features suggesting PE, ACS, or
+structural cardiac disease; PE pretest probability is low despite OCP use,
+and oxygenation/exam are normal.[1][2][3][4]
+Typical NSAID dosing for pleuritic pain: ibuprofen 400–600 mg orally every 6–8
+hours as needed, for several days with gastroprotection as appropriate.[1][5]
+Reassess if red flags develop (dyspnea, hypoxemia, fever, hemoptysis, syncope,
+calf pain/swelling) or pain persists/worsens.
+• 
+• 
+•";"Young woman with pleuritic chest pain after a viral prodrome, normal oxygenation, and normal chest x-ray; the presentation is most consistent with uncomplicated viral pleurisy, and ibuprofen is the most appropriate next step in management.
+"
+157;Gilson Inácio da Silva;Equipe 2 - Medicina;157;156;"A 30-year-old nulligravid woman, who is a military veteran, comes to the
+office because she has not had a menstrual
+period for the past year. She has not had nausea, vomiting, or night sweats.
+Menses previously occurred at regular
+28-day intervals. She is sexually active with one male partner and uses
+condoms consistently. Three weeks ago, she
+returned from a 1-year deployment in the Middle East, where she worked
+as an army combat medic. She resumed
+work as a teacher 2 weeks ago. She appears tearful but otherwise in no
+distress. Temperature is 37.1°C (98.7°F),
+pulse is 88/min, respirations are 16/min, and blood pressure is 116/72 mm
+Hg. Physical examination, including
+pelvic examination, shows no abnormalities. Serum studies show:
+Thyroid-stimulating hormone: 2 ?U/mL
+Follicle-stimulating hormone: 7 mIU/mL
+Luteinizing hormone: 10 mIU/mL
+Prolactin: 10 ng/mL
+?-hCG: negative
+Which of the following is the most likely cause of this patient’s
+amenorrhea?";Gonadal dysgenesis 45,X (Turner syndrome);Hypothalamic hypogonadism;Polycystic ovarian syndrome;Premature ovarian failure;Prolactinoma;;;;;B;B;Medium;Endocrinology / Gynecology;Guidance on functional hypothalamic amenorrhea;"The most likely cause is hypothalamic hypogonadism (functional hypothalamic
+amenorrhea). This patient has secondary amenorrhea with normal TSH and
+prolactin, low–normal gonadotropins (FSH 7 mIU/mL, LH 10 mIU/mL), and no
+vasomotor or hyperandrogenic features. Her recent prolonged military
+deployment and transition stress are classic precipitants of stress-related GnRH
+suppression leading to anovulation and amenorrhea.[1][2][3][4][5] The Endocrine
+Society (US) emphasizes psychosocial stress, energy imbalance, and intensive
+training (including military settings) as common triggers for FHA with reduced
+GnRH/LH pulsatility and low/normal gonadotropins.[3][5] Alternative diagnoses
+are less consistent: Turner syndrome and primary ovarian insufficiency typically
+show elevated FSH; prolactinoma shows hyperprolactinemia; and PCOS requires
+hyperandrogenism and/or polycystic ovarian morphology, which are absent
+here.[2][6][7][8]
+To clarify the ovulatory dysfunction differential that includes PCOS, it is helpful
+to recall that PCOS diagnosis requires combinations of hyperandrogenism,
+ovulatory dysfunction, and polycystic ovaries; this patient lacks clinical/
+biochemical hyperandrogenism and has long-standing amenorrhea temporally
+linked to stress, favoring FHA over PCOS.[6]
+Table 1. Diagnostic Criteria for the Polycystic Ovary Syndrome.
+Used under license from The New England Journal of Medicine.
+Clinical pearls:
+FHA: stress/energy deficit/exercise; low or low-normal LH/FSH; normal
+prolactin/TSH; anovulation.[1][2][3][4]
+PCOS: requires hyperandrogenism and/or polycystic ovarian morphology
+plus ovulatory dysfunction; typically features clinical or biochemical
+hyperandrogenism.[6]
+POI/Turner: hypergonadotropic hypogonadism (elevated FSH) and often
+vasomotor symptoms.[7][8]
+Prolactinoma: elevated prolactin and often galactorrhea.[2]
+Next steps for FHA: confirm exclusion of pregnancy/organic causes, assess
+stress, nutrition, and exercise; address modifiable triggers; consider bone health
+assessment; and reserve pharmacologic ovulation induction only if fertility is
+desired and lifestyle measures fail.[1][3][4]
+• 
+• 
+• 
+•";"Secondary amenorrhea in a young woman with normal prolactin, normal TSH, negative pregnancy test, and low-normal gonadotropins after prolonged psychosocial stress; the presentation is most consistent with functional hypothalamic hypogonadism."
+158;Gilson Inácio da Silva;Equipe 2 - Medicina;158;157;"A 45-year-old woman comes to the office because she has not had a
+menstrual period for 1 year. Menses previously
+occurred at regular 30-day intervals. She feels well, has no history of
+serious illness, and takes no medications. She
+has smoked one-half pack of cigarettes daily for 20 years. She is sexually
+active with one male partner and uses
+condoms consistently. She is 163 cm (5 ft 4 in) tall and weighs 63 kg (140 lb);
+BMI is 24 kg/m². Vital signs are
+within normal limits. Physical examination, including pelvic examination,
+shows no abnormalities. Measurement of
+which of the following serum concentrations is most likely to confirm the
+diagnosis?";Estradiol;Follicle-stimulating hormone;?-hCG;Luteinizing hormone;Progesterone;;;;;B;B;Easy;Gynecology / Endocrinology;Guidance on menopause / ovarian failure laboratory evaluation;"The clinical picture is consistent with natural menopause (12 months of
+amenorrhea at age 45 without other causes). The single serum measurement
+most likely to confirm ovarian failure in this context is an elevated follicle-
+stimulating hormone, reflecting loss of ovarian negative feedback; estradiol and
+LH fluctuate and are less reliable, and beta-hCG is used to exclude pregnancy,
+not confirm menopause. Smoking increases the likelihood of earlier menopause
+in this patient’s age range, further supporting the expectation of elevated FSH.[1]
+[2][3][4][5][6][7]
+Answer: Follicle-stimulating hormone
+The diagnostic approach for ovarian insufficiency/menopause emphasizes
+measuring FSH (and, when needed, confirming with concurrent low estradiol), as
+shown below.[1] Although the Choosing Wisely statement advises against using
+FSH to “identify the menopausal transition,” once 12 months of amenorrhea have
+occurred, FSH elevation is the most specific laboratory corroboration of ovarian
+failure.[1][2][3][4]
+Figure 1. Diagnostic Approach in a Patient with Possible Primary Ovarian Insufficiency.
+Used under license from The New England Journal of Medicine.";"Woman aged 45 with 12 months of amenorrhea and no evidence of another cause; the most useful laboratory confirmation of ovarian failure/menopause is an elevated follicle-stimulating hormone level."
+159;Gilson Inácio da Silva;Equipe 2 - Medicina;159;158;"A 2-month-old girl is brought to the office by her mother for a routine
+examination. Newborn screening
+electrophoresis showed hemoglobin FS. The mother says her daughter has
+not had fever or pallor. The patient is
+feeding well and gaining weight appropriately. She receives no medications.
+She appears well. She is at the 35th
+percentile for length and weight. Temperature is 37.0°C (98.6°F), pulse is
+158/min, and respirations are 28/min.
+Examination shows no abnormalities. All routine immunizations are
+administered. In addition to routine anticipatory
+guidance about feeding and development, the mother is instructed to
+observe the patient for pallor and fever and to
+palpate for an enlarged spleen. Which of the following is most appropriate
+to prevent complications in this patient?";Amoxicillin as needed for febrile illness;Instructions for the parents to palpate the long bones routinely;Instructions for the parents to take and record the patient’s pulse daily;Low-dose aspirin therapy;Oral prophylactic penicillin therapy;;;;;E;E;Medium;Pediatrics / Hematology;AAP guidance — sickle cell disease prophylaxis in infancy;"Oral prophylactic penicillin therapy
+Hemoglobin FS on newborn screening indicates sickle cell disease (most
+commonly HbSS), with functional asplenia in early infancy and high risk for
+invasive pneumococcal disease. The American Academy of Pediatrics
+recommends initiating penicillin V potassium prophylaxis by age 2 months for all
+infants with HbSS or S?0-thalassemia to prevent life-threatening pneumococcal
+sepsis, increasing the dose at age 3 years, and continuing until at least age 5
+years or completion of an appropriate pneumococcal vaccine series, with
+consideration of longer use in select patients (e.g., prior invasive pneumococcal
+disease or postsplenectomy).[1] GeneReviews likewise recommends penicillin V
+125 mg PO twice daily starting by 2 months, increased to 250 mg PO twice daily
+at age 3 years, through at least age 5 years; amoxicillin 20 mg/kg/day may be
+substituted for palatability or cost, and erythromycin for penicillin allergy.[2]
+Randomized trials summarized in a Cochrane review support reduced
+pneumococcal infections with prophylactic penicillin in young children with SCD
+and minimal adverse effects.[3]
+Other listed options are not appropriate for prevention of early invasive
+pneumococcal disease: amoxicillin “as needed” for fever does not provide
+prophylaxis; routine palpation of long bones and daily pulse checks are not
+recommended preventive measures; low-dose aspirin is not indicated for SCD
+prophylaxis in children given insufficient evidence and potential risks.[1][2][3][4]";"Infant with newborn screening showing hemoglobin FS, consistent with sickle cell disease; the most appropriate preventive measure is oral prophylactic penicillin to reduce the risk of invasive pneumococcal infection in early childhood."
+160;Gilson Inácio da Silva;Equipe 2 - Medicina;160;159;"A 3-week-old boy is brought to the physician by his mother because of a 5-
+day history of yellow eyes and skin and
+white stools. Pregnancy and delivery were uncomplicated. The patient's
+temperature is 37.1°C (98.8°F), pulse is
+160/min, respirations are 40/min, and blood pressure is 85/50 mm Hg.
+Examination shows diffuse jaundice.
+Cardiopulmonary examination shows no abnormalities. The abdomen is
+nontender. The liver edge is palpated 4 cm
+below the right costal margin. The spleen tip is palpated 3 cm below the
+left costal margin. Laboratory studies show:
+Leukocyte count: 10,000/mm³
+Serum
+Bilirubin, total: 16 mg/dL
+Direct: 12 mg/dL
+AST: 800 U/L
+ALT: 500 U/L
+Amylase: 100 U/L
+Which of the following is the most appropriate next step in diagnosis?";Air-contrast enema;Ultrasonography of the abdomen;Upper gastrointestinal series;Colonoscopy;Esophagogastroduodenoscopy;;;;;B;B;Medium;Pediatrics / Gastroenterology;Guidance on neonatal cholestasis / biliary atresia;"Ultrasonography of the abdomen.
+A 3-week-old with persistent jaundice, acholic stools, hepatosplenomegaly, and
+direct hyperbilirubinemia has high pretest probability of neonatal cholestasis,
+especially biliary atresia. Expedited evaluation is essential to enable timely Kasai
+portoenterostomy when indicated. The North American Society for Pediatric
+Gastroenterology, Hepatology and Nutrition/European Society for Pediatric
+Gastroenterology, Hepatology and Nutrition and the American Academy of
+Pediatrics endorse urgent workup of cholestatic infants and highlight acholic
+stools as a “red flag” warranting targeted evaluation for biliary atresia.[1][2][3]
+Abdominal ultrasound is the recommended first-line imaging: it is noninvasive
+and can identify findings suggestive of biliary atresia (eg, abnormal or
+nonvisualized gallbladder, triangular cord sign) and alternative obstructive
+etiologies (eg, choledochal cyst), while also assessing for features of chronic
+hepatopathy; normal US does not exclude biliary atresia but guides next steps.[1]
+[4][5][6][7] Radiology appropriateness criteria list abdominal US as “usually
+appropriate” initial imaging for cholestatic hyperbilirubinemia.[8] HIDA/MRCP/
+biopsy are reserved for equivocal cases or subsequent steps; contrast GI studies
+and endoscopy are not indicated in this presentation.[1][5][7][8]
+Given this infant’s presentation, the most appropriate immediate diagnostic test
+among the options is abdominal ultrasound to evaluate for biliary atresia and
+other obstructive causes without delaying further management.[1][5][7][8]";"Young infant with jaundice, acholic stools, hepatosplenomegaly, and marked direct hyperbilirubinemia; the presentation is highly concerning for neonatal cholestasis, especially biliary atresia, and abdominal ultrasonography is the most appropriate next diagnostic step."
+161;Gilson Inácio da Silva;Equipe 2 - Medicina;161;160;"A 52-year-old woman comes to the physician for a follow-up examination.
+She received the diagnosis of
+hypertension 3 weeks ago, and lisinopril therapy was begun at that time.
+She has had a constant, nonproductive,
+hacking cough for 2 weeks but has not had any other problems. She has no
+history of serious illness and takes no
+other medications. She does not smoke. She drinks one to two glasses of
+wine daily. She does aerobic exercise for
+30 minutes four to five times weekly. Her blood pressure has decreased
+from 164/92 mm Hg 3 weeks ago to 140/84
+mm Hg today. Lungs are clear to auscultation. Which of the following is the
+most appropriate next step in
+management of this patient's cough?";Pulmonary function tests;CT scan of the chest;Course of prednisone;Discontinuation of lisinopril;Use of a cough suppressant;;;;;D;D;Easy;Internal Medicine / Pharmacology;Guidance on ACE inhibitor adverse effects;"Discontinuation of lisinopril
+ACE inhibitors commonly cause a persistent, nonproductive cough, especially in
+women; the temporal relationship after initiation and absence of alternative
+causes make ACE inhibitor–induced cough the leading diagnosis here.[1][2][3]
+The appropriate management is to stop the ACE inhibitor; cough typically
+resolves within days to a few weeks after discontinuation, with cohort data
+showing resolution in most patients within ?10 days.[4][5] The American College
+of Cardiology/American Heart Association guideline advises substituting an
+angiotensin receptor blocker (ARB) when cough develops on an ACE inhibitor, as
+ARBs provide comparable BP control with a much lower risk of cough.[6][7][8]
+Further diagnostics (pulmonary function tests, chest CT) are unnecessary
+at this stage given the clear clinical attribution to the ACE inhibitor. [3][4]
+Prednisone or cough suppressants do not address the mechanism and are
+not recommended for ACE inhibitor–related cough. [4][9]
+Observation without change is inappropriate because the offending agent is
+ongoing.[4][6]
+Plan: Discontinue lisinopril and initiate an ARB (e.g., losartan, valsartan) with
+standard hypertension dosing and titration to BP targets per guideline practice,
+monitoring BP, renal function, and potassium.[6][7]";"Woman with new persistent dry cough shortly after starting lisinopril; the presentation is most consistent with ACE inhibitor–induced cough, and the appropriate next step is to discontinue lisinopril."
+162;Gilson Inácio da Silva;Equipe 2 - Medicina;162;161;"A 27-year-old primigravid woman at 41 weeks' gestation is admitted to the
+hospital for induction of labor. She has
+received cervical ripening agents and is now receiving oxytocin. The cervix
+is 9 cm dilated and 100% effaced; the
+vertex is at 0 station. Fetal monitoring shows contractions every 3 minutes
+and a reassuring heart rate. She requests
+pain medication. Which of the following is the most likely adverse effect of
+an intravenous opioid in this patient?";Maternal fever;Maternal tachycardia;Neonatal acidosis;Neonatal arrhythmia;Neonatal respiratory depression;;;;;E;E;Medium;Obstetrics / Pharmacology;Guidance on opioid use during labor;"Neonatal respiratory depression.
+Intravenous opioids administered in active labor cross the placenta rapidly and
+can depress the neonatal respiratory drive, particularly when given close to
+delivery. FDA labeling across multiple opioids (e.g., meperidine, hydrocodone,
+sufentanil) explicitly warns of neonatal respiratory depression during labor and
+recommends immediate availability of naloxone and neonatal monitoring.[1][2][3]
+Reviews and consensus statements note that systemic opioids offer limited
+mitigation of labor stress but are associated with fetal–neonatal depression;
+respiratory depression is the clinically significant neonatal risk that necessitates
+preparedness for resuscitation and reversal.[4][5][6][7] Small trials of IV fentanyl
+during labor report generally normal Apgar and cord gases with careful dosing
+and timing, yet acknowledge the need for neonatal observation and readiness for
+naloxone/oxygen if distress occurs.[8] Broader public health guidance
+emphasizes monitoring for opioid-related neonatal effects when exposure
+occurs near delivery.[9]
+Other listed options are less characteristic: maternal fever and tachycardia are
+not typical opioid toxicities; neonatal acidosis and arrhythmia are not the
+predominant risks compared with respiratory depression in this context.[4][5][7]";"Term pregnant woman in advanced labor requesting analgesia; intravenous opioids given close to delivery can cross the placenta and most importantly cause neonatal respiratory depression."
