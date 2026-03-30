@@ -76,34 +76,26 @@ Top-Avanc-EngSoft-SI-I-26-1-Gilson-Inacio-Silva-Med-Ativ1/
     └── Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.docx
 ```
 
-## Principais arquivos
+## Arquivos principais
 
 ### Pasta `data/`
-Contém os arquivos-base utilizados na atividade:
-
-- `dataset.json`
-- `questions_w_answers.jsonl`
-- `usmle_questions.json`
+- [dataset.json](data/dataset.json)
+- [questions_w_answers.jsonl](data/questions_w_answers.jsonl)
+- [usmle_questions.json](data/usmle_questions.json)
 
 ### Pasta `scripts/`
-Contém o script usado para organizar e gerar as saídas:
-
-- `processar.py`
+- [processar.py](scripts/processar.py)
 
 ### Pasta `outputs/`
-Contém os artefatos principais da execução:
-
-- `curadoria_abertas.csv`
-- `curadoria_mc.csv`
-- `respostas_llms.csv`
-- `avaliacao_llms.csv`
-- `Workbook_Equipe2_Medicina_Atividade1_Gilson_Inacio_da_Silva.xlsx`
+- [Curadoria das questões abertas (.csv)](outputs/curadoria_abertas.csv)
+- [Curadoria das questões de múltipla escolha (.csv)](outputs/curadoria_mc.csv)
+- [Respostas dos LLMs (.csv)](outputs/respostas_llms.csv)
+- [Avaliação dos LLMs (.csv)](outputs/avaliacao_llms.csv)
+- [Workbook final (.xlsx)](outputs/Workbook_Equipe2_Medicina_Atividade1_Gilson_Inacio_da_Silva.xlsx)
 
 ### Pasta `relatorio/`
-Contém a documentação final do trabalho individual:
-
-- `Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.pdf`
-- `Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.docx`
+- [Relatório em PDF](relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.pdf)
+- [Relatório em DOCX](relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.docx)
 
 ## Metodologia resumida
 
@@ -123,8 +115,8 @@ Este repositório preserva exatamente os artefatos efetivamente produzidos no re
 
 O relatório individual final está disponível em:
 
-- `relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.pdf`
-- `relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.docx`
+- [Relatório em PDF](relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.pdf)
+- [Relatório em DOCX](relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.docx)
 
 ## Vídeo
 
