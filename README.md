@@ -120,13 +120,8 @@ O relatório individual final está disponível em:
 
 ## Vídeo
 
-Adicionar aqui o link do vídeo quando estiver disponível.
+- [VÍDEO APRESENTAÇÃO](https://www.youtube.com/watch?v=AGzbBM3Vrac)
 
-Exemplo:
-
-```text
-Vídeo: [colar link aqui]
-```
 
 ## Referências principais
 
