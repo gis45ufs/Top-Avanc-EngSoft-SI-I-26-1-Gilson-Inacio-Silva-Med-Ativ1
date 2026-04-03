@@ -122,6 +122,11 @@ O relatório individual final está disponível em:
 
 - [VÍDEO APRESENTAÇÃO](https://www.youtube.com/watch?v=AGzbBM3Vrac)
 
+## App / Dashboard
+
+- [LINK do Dashboard Med LLM Insights](https://med-llm-insights-gilson.vercel.app)
+
+
 
 ## Referências principais
 
