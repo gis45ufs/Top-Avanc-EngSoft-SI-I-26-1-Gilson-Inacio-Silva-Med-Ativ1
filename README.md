@@ -5,6 +5,14 @@ Repositório individual da **Atividade Avaliativa 1** da disciplina **Tópicos A
 **Programa:** Pós-Graduação em Ciência da Computação  
 **Equipe:** Equipe 2 - Medicina  
 
+## App / Dashboard Relatório
+
+- [Dashboard Med LLM Insights](https://med-llm-insights-gilson.vercel.app)
+
+## Vídeo Resumo de 1 minuto
+
+- [VÍDEO APRESENTAÇÃO](https://www.youtube.com/watch?v=AGzbBM3Vrac)
+
 ## Escopo individual
 
 Este repositório documenta a parte individual correspondente a:
@@ -117,16 +125,6 @@ O relatório individual final está disponível em:
 
 - [Relatório em PDF](relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.pdf)
 - [Relatório em DOCX](relatorio/Relatorio_Individual_Gilson_Inacio_Silva_Atividade1.docx)
-
-## Vídeo
-
-- [VÍDEO APRESENTAÇÃO](https://www.youtube.com/watch?v=AGzbBM3Vrac)
-
-## App / Dashboard
-
-- [LINK do Dashboard Med LLM Insights](https://med-llm-insights-gilson.vercel.app)
-
-
 
 ## Referências principais
 
